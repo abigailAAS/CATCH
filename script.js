@@ -20,9 +20,6 @@ nun.forEach(function (elem){
         newImg.style.rotate = rot+"deg"
         playground.appendChild(newImg)
         
-        
-
-
     })
 })
 
